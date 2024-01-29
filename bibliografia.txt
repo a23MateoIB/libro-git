@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 El Rey León, Rob Minkoff, Roger Allers 
+=======
+>>>>>>> harrypotter
